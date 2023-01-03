@@ -1,1 +1,1 @@
-# Programa que calcula el salario dependiendo de interes anual y mensual. tambien hace prestamo
+# programa para pagar prestamo tomando en cuenta el interes anual o mensual
